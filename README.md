@@ -1,7 +1,7 @@
 # Projeto Gerenciamento de Ponto e Controle de Acesso.
 ### [Digital innovation one](https://digitalinnovation.one/)
 
-Modelo de API RestFul documentada com SWAGGER. Ultilizando Banco de Dados H2.
+Modelo de API documentada com SWAGGER. Ultilizando Banco de Dados H2.
 
 
 
